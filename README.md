@@ -1,6 +1,7 @@
--👋 Hi, I’m Ameya Marakarkandy, a 1st year UG Student at IIT Bombay.
--💻 I’m interested in technology,physics and problem solving.
--💡 I’m currently learning C++
+- 👋 Hi, I’m Ameya Marakarkandy, 
+    a 1st year UG Student at IIT Bombay.
+- 💻 I’m interested in technology,physics and problem solving.
+- 💡 I’m currently learning C++
 
 
 <!---
