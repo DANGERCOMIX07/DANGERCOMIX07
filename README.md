@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Ameya Marakarkandy, 
     a 1st year UG Student at IIT Bombay.
-- 💻 I’m interested in technology,physics and problem solving.
-- 💡 I’m currently learning C++
+- 💻 I’m interested in physics, space tech, UAVs, Robotics.
+- 🛰 IITB Student Satellite Team member
+- 🛩 Convener of Aeromodelling Club IITB
+- 💡 I’m currently learning C++.
 
 
 <!---
