@@ -3,7 +3,7 @@
 - 💻 I’m interested in physics, space tech, UAVs, Robotics.
 - 🛰 IITB Student Satellite Team member
 - 🛩 Convener of Aeromodelling Club IITB
-- 💡 I’m currently learning C++.
+- 💡 I’m currently learning ROS and Microcontroller programming
 
 
 <!---
