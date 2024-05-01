@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ameya Marakarkandy, 
     a third year student at IIT Bombay.
-- 🛰 Systems Engineer and
-    Electrical Subsystem Head
+- 🛰 Project Manager
     @IITB Student Satellite Team
 - 🚀 Project Manager, AADYA Rocketry Mission
 - 🛩 Aeromodelling Club IITB
