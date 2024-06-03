@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ameya Marakarkandy, 
-    a third year student at IIT Bombay.
+    a final year student at IIT Bombay.
 - 🛰 Project Manager
     @IITB Student Satellite Team
 - 🚀 Project Manager, AADYA Rocketry Mission
