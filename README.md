@@ -6,8 +6,7 @@
 - 🛩 Aeromodelling Club IITB
 
 I am interested in the domain of Control Systems Engineering and its applications in Aerospace
-I also build space based power systems, Autonomous UAVs 
-And work on an experimental rocketry mission called Aadya when I am not busy lazing around
+I am building an autonomous nanosatellite proximity operations and docking mission
 
 <!---
 DANGERCOMIX07/DANGERCOMIX07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
